@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FireAuth</string>
+    <string name="app_title">Fire Auth Demo</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email:</string>
+    <string name="prompt_password">Password:</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_out">Sign Out</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >8 characters</string>
+    <string name="registration_failed">"Registration failed"</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="session_failed">"Login Session failed"</string>
+    <string name="login_details">"Details:"</string>
+    <string name="singout_msg">"Sign out successful"</string>
+    <string name="assignment1">"Assignment1"</string>
+    <string name="assignment2">"Assignment2"</string>
+</resources>
